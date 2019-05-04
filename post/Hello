@@ -95,7 +95,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://Sokias.github.io/post/Hello" data-id="cjv97g4dd00006orbq0o6vgp4" class="article-share-link">Share</a>
+      <a data-url="http://Sokias.github.io/post/Hello" data-id="cjv97r17y0000ngrb5u39la0c" class="article-share-link">Share</a>
       
       
     </footer>
@@ -104,11 +104,15 @@
     
 <nav id="article-nav">
   
-  
-    <a href="/post/HelloWorld" id="article-nav-older" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Older</strong>
-      <div class="article-nav-title">Hello</div>
+    <a href="/post/HelloWorld" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          HelloWorld
+        
+      </div>
     </a>
+  
   
 </nav>
 
@@ -144,11 +148,11 @@
       <ul>
         
           <li>
-            <a href="/post/Hello">Hello</a>
+            <a href="/post/HelloWorld">HelloWorld</a>
           </li>
         
           <li>
-            <a href="/post/HelloWorld">Hello</a>
+            <a href="/post/Hello">Hello</a>
           </li>
         
       </ul>
